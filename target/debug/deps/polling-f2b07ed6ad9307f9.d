@@ -1,0 +1,12 @@
+\\DELL\Users\HI\tide_example\target\debug\deps\libpolling-f2b07ed6ad9307f9.rmeta: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs
+
+\\DELL\Users\HI\tide_example\target\debug\deps\libpolling-f2b07ed6ad9307f9.rlib: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs
+
+\\DELL\Users\HI\tide_example\target\debug\deps\polling-f2b07ed6ad9307f9.d: C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs
+
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\lib.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\os\iocp.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\mod.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\afd.rs:
+C:\Users\HI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polling-2.8.0\src\iocp\port.rs:
